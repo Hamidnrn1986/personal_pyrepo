@@ -1,0 +1,12 @@
+
+user Tab auto-coplete 
+
+mkdir
+ls
+la -la(maibg sure that .git foldere exist )
+cd.. (go back to the presoivs folder)
+pwd
+clear
+cd~ (go to the directory )
+balnaslbsalsab 
+
