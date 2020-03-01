@@ -10,3 +10,7 @@ clear
 cd~ (go to the directory )
 balnaslbsalsab 
 
+git commit -m "<<commit_message>>"
+git config --global use.name "someone"
+git config --global user.email "hamid_n_patriot@yahoo.com"
+git config --list
